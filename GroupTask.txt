@@ -1,4 +1,13 @@
 Hello!
 It's our group work and we are happy to see you here.
+<<<<<<< HEAD
 First update by Vlada. Added new branch!!!
 New update by Elina.
+=======
+<<<<<<< HEAD
+Update by Alina. Added new branch! :)
+=======
+First update by Vlada. Added new branch!!!
+New comment from Kristine.
+>>>>>>> cb493582d661a9b2f71aed4065f176c161c22bf7
+>>>>>>> 32b2ec306a7690668d5248cf0be174dc153e0c4c
